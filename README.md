@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="./.github/banner.png" />
+    <img alt="Ecoleta" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/thiagoperes/">
     <img alt="Made by thiagoperesbr" src="https://img.shields.io/badge/made%20by-thiagoperesbr-yellow">
   </a>
+</p>
+
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
 ## 💻 Sobre o projeto
