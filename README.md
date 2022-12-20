@@ -53,7 +53,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+<a href="https://www.figma.com/file/MpaCoVkpn6XxkX2PJNYa0O/Ecoleta-(Booster)-(Copy)?t=WlZKQbUaGfouzHxE-0">
   <img alt="Made by RocketSeat" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
